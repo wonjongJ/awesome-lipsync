@@ -12,4 +12,4 @@ This repo is a collection of AWESOME things about lip sync, including papers, co
 
 # Papers
 **Conference**
-- Synthesizing Obama Learning Lip Sync from Audio
+- Synthesizing Obama Learning Lip Sync from Audio [[SIGGRAPH2017]](https://grail.cs.washington.edu/projects/AudioToObama/siggraph17_obama.pdf) [[Code]](https://github.com/supasorn/synthesizing_obama_network_training)
