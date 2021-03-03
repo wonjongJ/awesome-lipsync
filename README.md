@@ -6,7 +6,7 @@ This repo is a collection of AWESOME things about lip sink, including papers, co
 This repo is a collection of AWESOME things about domain adaptation, including papers, code, etc. Feel free to star and fork.
 
 # Contents
-- [awesome-domain-adaptation](#awesome-lipsink)
+- [awesome-lipsink](#awesome-lipsink)
 - [Contents](#contents)
 - [Papers](#papers)
 
