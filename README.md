@@ -11,9 +11,13 @@ This repo is a collection of AWESOME things about talking face, including papers
 
 
 # Papers
-**Conference**
-- Synthesizing Obama Learning Lip Sync from Audio [[SIGGRAPH2017]](https://grail.cs.washington.edu/projects/AudioToObama/siggraph17_obama.pdf) [[Code]](https://github.com/supasorn/synthesizing_obama_network_training)
 
+## **Conference**
+
+### Speaker-specific
+- Synthesizing Obama Learning Lip Sync from Audio [[SIGGRAPH2017]](https://grail.cs.washington.edu/projects/AudioToObama/siggraph17_obama.pdf) [[Code]](https://github.com/supasorn/synthesizing_obama_network_training)
+- 
+### Speaker-independent
 - Hierarchical Cross-Modal Talking Face Generation with Dynamic Pixel-Wise Loss [[CVPR2019]](https://arxiv.org/pdf/1905.03820.pdf)
 
 - Speech-driven Facial Animation using Cascaded GANs for Learning of Motion and Texture [[ECCV2020]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750409.pdf)
