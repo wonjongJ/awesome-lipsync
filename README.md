@@ -5,7 +5,7 @@ This repo is a collection of AWESOME things about talking face, including papers
 
 
 # Contents
-- [awesome-lipsync](#awesome-lipsync)
+- [Awesome-talking-face](#awesome-talking-face)
 - [Contents](#contents)
 - [Papers](#papers)
 
